@@ -1,0 +1,5 @@
+﻿  project_Functions.c
+c:\users\galma\documents\visual studio 2015\projects\projectend\projectfinal\project_functions.h(48): warning C4091: 'typedef ': ignored on left of '_treeNodeListCell' when no variable is declared
+c:\users\galma\documents\visual studio 2015\projects\projectend\projectfinal\project_functions.c(590): warning C4013: 'main' undefined; assuming extern returning int
+  projectFinal.vcxproj -> C:\Users\galma\Documents\Visual Studio 2015\Projects\projectend\Debug\projectFinal.exe
+  projectFinal.vcxproj -> C:\Users\galma\Documents\Visual Studio 2015\Projects\projectend\Debug\projectFinal.pdb (Full PDB)

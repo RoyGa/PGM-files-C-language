@@ -1,0 +1,8 @@
+projectFinal: project_Main.o project_Functions.o
+	gcc -o projectFinal project_Main.o project_Functions.o 
+
+project_Main.o: project_Main.c project_Functions.h
+	gcc -c project_Main.c
+
+project_Functions.o: project_Functions.c project_Functions.h
+	gcc -c project_Functions.c
